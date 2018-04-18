@@ -1,0 +1,21 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="2dd83156-7d8c-4e71-8e32-7570c0e06ad7" name="blog" url="http://blog">
+        <fileTransfer port="0" mountedRoot="D:\" accessType="MOUNT" />
+      </webServer>
+      <webServer id="d99885cb-38ea-488e-a207-955eba0cdc61" name="blog (1)" url="http://blog">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="217fedeb-0253-42b9-ac5c-bf667e90d574" name="blog (2)" url="http://blog">
+        <fileTransfer port="0" mountedRoot="D:\" accessType="MOUNT" />
+      </webServer>
+      <webServer id="45467542-20f3-4393-9e3b-eda9ae143524" name="blog1" url="http://localhost">
+        <fileTransfer port="0" mountedRoot="C:\openserver\domains\blog" accessType="MOUNT" />
+      </webServer>
+      <webServer id="1a96abe8-013d-4210-b5de-63877de09689" name="taskjob" url="http://localhost">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</application>
